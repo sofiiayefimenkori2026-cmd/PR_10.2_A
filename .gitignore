@@ -1,0 +1,5 @@
+*.o
+*.dSYM/
+Lab_10_2_A
+UnitTest_10_2_A
+.DS_Store
